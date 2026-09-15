@@ -61,3 +61,13 @@ The data was prepared using Python and Pandas before being visualized in Power B
 - Created Vehicle Age based on model year
 - Created Electric Range categories
 - Prepared the data for Power BI visualization
+
+## 🎓 Learning & Certification
+
+I completed the **30 Days Power BI Micro Course by SkillCourse** as part of my self-learning journey.
+
+I applied the concepts learned during the course to build this Electric Vehicle Population & Market Insights project using Python and Power BI.
+
+### Certificate
+
+![SkillCourse Power BI Certificate](images/skillcourse-power-bi-certificate.png)
