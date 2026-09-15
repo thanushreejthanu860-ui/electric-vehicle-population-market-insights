@@ -15,15 +15,21 @@ This project analyzes 135,038 electric vehicle records to understand patterns in
 - Data Analysis
 - Data Visualization
 
-## 🔍 Key Analysis
+## 🔍 Project Features
 
-- Electric Vehicle Population by Model Year
-- Top 10 EV Manufacturers
-- BEV vs PHEV Distribution
-- CAFV Eligibility Status
-- Electric Range Distribution
-- Electric Range vs Model Year
-- Top EV Models
+The Power BI dashboard includes:
+
+- 📊 Total Electric Vehicle Population KPI
+- 🔋 BEV and PHEV share analysis
+- 📈 EV population trends by model year
+- 🏭 Top 10 electric vehicle manufacturers
+- ⚡ Electric range distribution
+- 🚗 Top electric vehicle models with images
+- 🌱 CAFV eligibility analysis
+- 📅 Model Year interactive slicer
+- 📉 Electric range analysis across model years
+
+The dashboard combines Python-based data preparation with interactive Power BI visualizations.
 
 ## 📈 Dashboard
 
@@ -38,3 +44,20 @@ This project was created as part of my self-learning journey in Power BI. I comp
 ## 📌 Project Outcome
 
 This project helped me strengthen my skills in data preparation, analysis, visualization, and Power BI dashboard development.
+
+## 🗂️ Dataset & Data Preparation
+
+The dataset contains electric vehicle population records from Washington State.
+
+The data was prepared using Python and Pandas before being visualized in Power BI.
+
+### Data Preparation
+
+- Cleaned text fields and standardized manufacturer and model names
+- Created EV Type categories: BEV and PHEV
+- Created CAFV eligibility status categories
+- Treated zero electric-range values as unavailable for range analysis
+- Created a cleaned Electric Range field
+- Created Vehicle Age based on model year
+- Created Electric Range categories
+- Prepared the data for Power BI visualization
