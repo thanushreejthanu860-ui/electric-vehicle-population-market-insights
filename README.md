@@ -29,6 +29,8 @@ This project analyzes 135,038 electric vehicle records to understand patterns in
 
 The dashboard was designed in Power BI with a focus on interactive visualizations and a clean, professional layout.
 
+![Electric Vehicle Population & Market Insights Dashboard](images/dashboard.png)
+
 ## 🎓 Learning
 
 This project was created as part of my self-learning journey in Power BI. I completed the **30 Days Power BI Micro Course by SkillCourse** and applied the concepts learned during the course to build this project.
